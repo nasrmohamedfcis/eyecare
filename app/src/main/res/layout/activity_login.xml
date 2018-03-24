@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingTop="85dp"
+    android:paddingLeft="15dp"
+    android:paddingRight="15dp"
+    tools:context="com.example.nasrf.eyecare.LOGIN.LoginActivity">
+
+
+    <LinearLayout
+        android:gravity="center"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:layout_marginBottom="15dp"
+            android:src="@drawable/app_logo"
+            android:layout_width="200dp"
+            android:layout_height="200dp" />
+
+        <EditText
+            android:textColor="@color/colorPrimaryDark"
+            android:layout_marginBottom="15dp"
+            android:id="@+id/etEmail"
+            style="@style/EditText_style"
+            android:textAlignment="center"
+            android:hint="@string/email"
+            android:inputType="textEmailAddress"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <EditText
+            android:textColor="@color/colorPrimaryDark"
+            android:layout_marginBottom="15dp"
+            android:id="@+id/etPass"
+            style="@style/EditText_style"
+            android:textAlignment="center"
+            android:hint="@string/pass"
+            android:inputType="textPassword"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <LinearLayout
+            android:layout_marginBottom="15dp"
+            android:gravity="center"
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <Button
+                android:onClick="Login"
+                android:text="@string/log_in"
+                style="@style/Button_style"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <Button
+                android:onClick="Signup"
+                android:text="@string/sign_up"
+                style="@style/Button_style"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+        </LinearLayout>
+
+        <TextView
+            android:onClick="ForgetPassword"
+            style="@style/Base_TextView_style"
+            android:textSize="15.5sp"
+            android:text="@string/forget_pass"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+    </LinearLayout>
+
+</LinearLayout>

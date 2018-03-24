@@ -1,0 +1,70 @@
+<resources>
+
+    <string name="app_name" translatable="false">eye care</string>
+    <string name="SP_Name" translatable="false">userData</string>
+    <string name="log_in">LogIn</string>
+    <string name="sign_up">SignUP</string>
+    <string name="forget_pass">forget your password?</string>
+    <string name="email">Email</string>
+    <string name="pass">Password</string>
+    <string name="email_pass_null">You can not login unless you fill the reqired fields</string>
+    <string name="country">country</string>
+    <string name="governorate">governorate</string>
+    <string name="city">city</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">last Name</string>
+    <string name="phone_no">Phone</string>
+    <string name="language">Choose your Language</string>
+    <string name="check_fields"> please fill all the above fields</string>
+    <string name="phone_format">check your phone number</string>
+    <string name="cont">continue</string>
+    <string name="enter_pass">Enter Your Password</string>
+    <string name="renter_pass">Enter Your Password Again</string>
+    <string name="pass_not_match">password did not  match</string>
+    <string name="done">Done</string>
+    <string name="validate">Validate</string>
+    <string name="eye_test">Start Eye Test</string>
+    <string name="color_test">Start Color Test</string>
+    <string name="write_num">Look at the pictures below, and enter the numbers that you see, if you can\'t see a number enter 0 </string>
+    <string name="num">num</string>
+    <string name="pic_num">The number pictured is actually</string>
+    <string name="most_people">Most color blind people won\'t see this number clearly.</string>
+    <string name="normal_people">Most individuals with normal color vision will see this number.</string>
+    <string name="red_people">People that are red color blind see only a</string>
+    <string name="green_people">green color blind people may see only a</string>
+    <string name="red_green_people">People with red green color blindness see the number</string>
+    <string name="special_case">Everyone should see the number 12 including people that are color blind.</string>
+    <string name="if_see">if you see</string>
+    <string name="most_red_green">you are most likely red green color blind.</string>
+    <string name="total_color_blind">People that are total color blind will see nothing.</string>
+
+    <string name="finished">Test Finished</string>
+    <string name="finished_text"> the test is finished. if you feel uncertain with that test please visit a doctor </string>
+
+    <string-array name="language_array">
+        <item>English</item>
+        <item>Arabic</item>
+        <item>French</item>
+    </string-array>
+
+    <string-array name="country_array">
+        <item>Egypt</item>
+    </string-array>
+
+    <string-array name="Governorate_array">
+        <item>Cairo</item>
+    </string-array>
+
+    <string-array name="city_array">
+        <item>Giza</item>
+    </string-array>
+
+    <string name="title_activity_main" translatable="false"></string>
+    <string name="navigation_drawer_open" translatable="false">Open navigation drawer</string>
+    <string name="navigation_drawer_close" translatable="false">Close navigation drawer</string>
+    <string name="settings">settings</string>
+    <string name="help">help</string>
+    <string name="about">about</string>
+    <string name="log_out">logout</string>
+
+</resources>

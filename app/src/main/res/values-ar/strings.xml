@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">eye care</string>
+    <string name="log_in">الدخول</string>
+    <string name="sign_up">الأشتراك</string>
+    <string name="forget_pass">هل نسيت كلمة السر ؟</string>
+    <string name="email">البريد الاليكتروني</string>
+    <string name="pass">كلمة السر</string>
+    <string name="email_pass_null">لا يمكنك الدخول الا بعد ملئ البيانات</string>
+    <string name="country">الدولة</string>
+    <string name="governorate">المحافظة</string>
+    <string name="city">المدينة</string>
+    <string name="first_name">الأسم الأول</string>
+    <string name="last_name">الأسم الأخير</string>
+    <string name="phone_no">الهاتف</string>
+    <string name="language">أختر اللغة</string>
+    <string name="check_fields">من فضلك املأ البيانات</string>
+    <string name="phone_format">تأكد من رقم هاتفك</string>
+    <string name="cont">أكمل</string>
+    <string name="enter_pass">أدخل كلمة السر</string>
+    <string name="renter_pass">أدخل كلمة السر مرة أخري</string>
+    <string name="pass_not_match">كلمة السر لم تتطابق</string>
+    <string name="done">حسنا</string>
+    <string name="validate">تأكد</string>
+    <string name="eye_test">أبدأ أختبار النظر</string>
+    <string name="color_test">أبدأ أختبار الألوان</string>
+    <string name="write_num">أنظر للصورة و أدخل الرقم الذي تراه. أذا لم تستطع رؤية الرقم أدخل 0 .</string>
+    <string name="num">الرقم</string>
+    <string name="pic_num">"الرقم في الصورة هو "</string>
+    <string name="most_people">أغلب الناس الذين يعانون من عمي الألوان لن يروا الرقم بوضوح</string>
+    <string name="normal_people">أغلب الناس الطبيعيين يرون الرقم بوضوح</string>
+    <string name="red_people">"الناس الذين يعانون من العمي اللون الأحمر سيرون "</string>
+    <string name="green_people">"الناس الذين يعانون من عمي اللون الأخضر سيرون "</string>
+    <string name="red_green_people">"الناس الذين يعانون من عمي اللونين الأحمر و الأخضر سيرون الرقم "</string>
+    <string name="special_case">الجميع يري الرقم 12 حتي الذين يعانون من عمي الألوان</string>
+    <string name="if_see">"أذا رأيت "</string>
+    <string name="most_red_green">"انت في الأغلب تعاني من عمي اللونين الاحمر و الاخضر "</string>
+    <string name="total_color_blind">الناس الذين يعانون من عمي الكلي لن يروا اي شئ</string>
+    <string name="finished">انتهي الأختبار</string>
+    <string name="finished_text">"أنتهي الأختبار. أذا لم تكن متأكدا من الأختبار من فضلك أذهب لطبيب "</string>
+    <string name="settings">الأعدادات</string>
+    <string name="help">المساعدة</string>
+    <string name="about">عن البرنامج</string>
+    <string name="log_out">الخروج</string>
+</resources>
